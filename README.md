@@ -4,3 +4,4 @@
 1. 후입선출 스택 https://blog.naver.com/nuang0530/222866387163
 2. 선입선출 큐 https://blog.naver.com/nuang0530/222870318354
 3. 덱 https://blog.naver.com/nuang0530/222877030575
+4. 우선순위 큐 https://blog.naver.com/nuang0530/222883067153
